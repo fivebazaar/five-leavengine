@@ -8,6 +8,7 @@
 ### 💬 Community & Support
 [![Discord](https://img.shields.io/badge/Discord-Join%20Server-7289da?style=for-the-badge&logo=discord)](https://discord.gg/Dc6EVAUxu6)
 [![GitHub Issues](https://img.shields.io/badge/GitHub-Issues-green?style=for-the-badge&logo=github)](https://github.com/fivebazaar/five-leavengine/issues)
+
 A modern and optimized FiveM script that allows players to leave their vehicle engine running when exiting. Perfect for emergency services and roleplay scenarios.
 
 ## Features
@@ -101,3 +102,4 @@ This project is open source. Feel free to modify and distribute according to you
 
 
 *Made with ❤️ for the FiveM community*
+
