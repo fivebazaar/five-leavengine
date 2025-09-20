@@ -1,5 +1,13 @@
 # five-leaveengine Script
 
+## 🎥 Preview & Support
+
+### 📹 Demo Video
+[![Five Hotwire Demo](https://img.shields.io/badge/YouTube-Demo%20Video-red?style=for-the-badge&logo=youtube)](https://youtu.be/tdEKY2Ikekk?si=5EytLnqjaPIsQPfC)
+
+### 💬 Community & Support
+[![Discord](https://img.shields.io/badge/Discord-Join%20Server-7289da?style=for-the-badge&logo=discord)](https://discord.gg/Dc6EVAUxu6)
+[![GitHub Issues](https://img.shields.io/badge/GitHub-Issues-green?style=for-the-badge&logo=github)](https://github.com/fivebazaar/five-leavengine/issues)
 A modern and optimized FiveM script that allows players to leave their vehicle engine running when exiting. Perfect for emergency services and roleplay scenarios.
 
 ## Features
@@ -90,5 +98,6 @@ For issues or questions, please create an issue on the repository.
 This project is open source. Feel free to modify and distribute according to your needs.
 
 ---
+
 
 *Made with ❤️ for the FiveM community*
