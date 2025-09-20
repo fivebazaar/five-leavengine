@@ -2,7 +2,7 @@ fx_version 'cerulean'
 game 'gta5'
 
 description 'Leave Engine Running - Modern & Optimized'
-version '3.0.0'
+version '1.0.0'
 author 'FAXES - Optimized by alpy'
 
 shared_scripts {
